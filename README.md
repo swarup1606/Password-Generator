@@ -1,10 +1,11 @@
-# Password Generator
+# Password Generator🔒🔑
 
 > "Create strong, secure passwords in a flash!"
 
 Welcome to the **Password Generator** project – a simple yet powerful Python tool that helps you generate secure and random passwords for all your needs. Whether you're looking to secure your online accounts or need a robust password for a new application, this tool is here to assist!
 
 ---
+
 
 ## Table of Contents
 
@@ -30,6 +31,10 @@ In today's digital age, password security is more important than ever. This proj
 - **Randomized Generation:** Each password is randomly generated to ensure maximum security.
 - **Simple CLI:** Easy-to-use command-line interface with clear prompts.
 - **Extensible Code:** Easily add new features or integrate with other applications.
+  
+---
+
+![image](https://github.com/user-attachments/assets/98c0c517-a7a7-4b98-b5f2-343b98049705)
 
 ---
 
@@ -56,7 +61,7 @@ Before you begin, make sure you have [Python 3](https://www.python.org/downloads
 ## Usage
 - Run the script using Python:
   ```bash
-  python password_generator.py
+  python passgenerator.py
   
 **You'll be prompted to:**
 
